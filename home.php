@@ -1,1 +1,1 @@
-<?php echo "Mome Version"; ?>
+<?php echo " Mome "; ?>
